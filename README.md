@@ -1,7 +1,7 @@
-Programmer & Writer in the East of England.  
+Developing RFID Tag software and language study applications.  
 Writes about photography as co-founding editor of [C4 Journal](https://c4journal.com).  
 Previously worked in cultural heritage, digitizing maps and manuscripts at [Cambridge University Library](https://www.lib.cam.ac.uk/collections/departments/digital-content-unit).  
-Presently focusing on a mix of RFID-oriented embedded work and language-related apps.  
+Additionally [makes photographs](https://callumbeaney.github.io/website/photography.html) and publishes/exhibits them sometimes.  
 
 <details><summary> 日本語：私について </summary>
 カルと申します。イギリス東部出身のプログラマーで写真専門のライター兼編集者です。  
@@ -15,5 +15,4 @@ Presently focusing on a mix of RFID-oriented embedded work and language-related 
 目前，我正在做嵌入式系统开发。 </details>
   
 🎓 Currently Learning: Middle English; Baking; Fourier math.  
-📚 Currently Reading: Game of Thrones; The Forme of Cury; Joseph Mitchell 
-
+📚 Currently Reading: Game of Thrones; The Forme of Cury; Joseph Mitchell.  
