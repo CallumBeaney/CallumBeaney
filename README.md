@@ -1,7 +1,7 @@
 Developing RFID Tag software and language study apps 📎.  
 Writes about photography as co-founding editor of [C4 Journal](https://c4journal.com).  
 Previously worked in cultural heritage, digitizing maps and manuscripts at [Cambridge University Library](https://www.lib.cam.ac.uk/collections/departments/digital-content-unit).  
-Additionally [makes photographs](https://callumbeaney.github.io/website/) sometimes.  
+Additionally [makes photographs](https://callumbeaney.github.io) sometimes.  
 
 <details><summary> 日本語：私について </summary>
 カルと申します。イギリス東部出身のプログラマーで写真専門のライター兼編集者です。  
