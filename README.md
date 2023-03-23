@@ -15,6 +15,6 @@ Additionally [makes photographs](https://callumbeaney.github.io) sometimes.
 目前，我正在做嵌入式系统开发。 </details>
 
 🎓 Currently Learning: Middle English; Medieval pastry; Banjo.  
-📚 Currently Reading: Game of Thrones; The Forme of Cury; Joseph Mitchell.  
+📚 Currently Reading: Game of Thrones; The Forme of Cury; Sir Gawain and the Green Knight.  
   
 📎 Began learning CS via the Harvard CS50x course and K&R. Then embedded with C and Python. Also language apps using Dart & JS.  
