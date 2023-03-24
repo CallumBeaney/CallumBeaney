@@ -14,7 +14,7 @@ Additionally [makes photographs](https://callumbeaney.github.io) sometimes.
 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。   
 目前，我正在做嵌入式系统开发。 </details>
 
-🎓 Currently Learning: Middle English; Medieval pastry; Banjo.  
+🎓 Currently Learning: Middle English; Medieval pastry; Harp.  
 📚 Currently Reading: Game of Thrones; The Forme of Cury; Sir Gawain and the Green Knight.  
   
 📎 Began learning CS via the Harvard CS50x course and K&R. Then embedded with C and Python. Also language apps using Dart & JS.  
