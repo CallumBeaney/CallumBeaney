@@ -13,7 +13,7 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
 我是一位自学的程序员同时兼职做作家编辑。我是网络出版物C4 Journal的文字编辑也是创始人之一。   
 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。   
 目前，我正在做嵌入式系统开发。 </details>
-<details><summary><h4>　_Click here for a sample of my recent projects_　</h4></summary>
+<details><summary><h4>　[Click here for a sample of my recent projects]　</h4></summary>
 <table>
     <tr>
         <td width="300">
@@ -56,7 +56,8 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
     </tr>
     <tr>
         <td width="300">
-            <p>Repo: <a href="https://github.com/CallumBeaney/rensou-kanji-hinge-flutter"><img src="https://callumbeaney.github.io/index_images/rensou.jpg" /></a>
+            <p><a href="https://github.com/CallumBeaney/rensou-kanji-hinge-flutter">
+                <img src="https://callumbeaney.github.io/index_images/rensou.jpg" /></a>
         </td>
         <td>
             <b>Chinese Character-Linking Practice Tool (Dart/Flutter)</b>            <p></p>
