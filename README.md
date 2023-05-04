@@ -56,7 +56,7 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
     </tr>
     <tr>
         <td width="300">
-            <p><a href="https://github.com/CallumBeaney/rensou-kanji-hinge-flutter">
+            <p><a href="https://github.com/CallumBeaney/kanji-hanzi-chainer">
                 <img src="https://callumbeaney.github.io/index_images/rensou.jpg" /></a>
         </td>
         <td>
