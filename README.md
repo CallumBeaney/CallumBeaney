@@ -22,7 +22,7 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
         <td>
             <b>双汉字复合词搜索・二漢字複合語狩猟・hanzi/kanji pairing games (JS)</b>
             <p></p>
-            <p>每个网格包含从八个词汇源至十六个的汉字。点击两个汉字按钮，如果成为绿色的话，说明你发现了一个！一旦你全部找到，就会生成一个新的网格。但是，那十六个汉字可能包含那八个词以外的汉字组合。当你找到这样的词时，瓷砖会短暂地变成金色。 <br>Each grid of 16 hanzi is built from 8 random seed words. Tap 2 hanzi and, if they turn green, you've found one; it'll be added to your list. These 16 hanzi might contain more than just those 8 combinations... when you find such a word, the tiles will briefly turn gold.</p>
+            <p>Each grid of 16 hanzi is built from 8 random seed words. Tap 2 hanzi and, if they turn green, you've found one; it'll be added to your list. These 16 hanzi might contain more than just those 8 combinations... when you find such a word, the tiles will briefly turn gold.</p>
             <p></p>
             <p>Repo: <a href="https://github.com/CallumBeaney/chinese-wordsearch-game">双汉字复合词搜索 -- Chinese version</a><br>
               Repo: <a href="https://github.com/CallumBeaney/kanji-pair-game">日本語版もあります！ I made a Japanese Version too! </a></p>
@@ -57,13 +57,15 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
     <tr>
         <td width="300">
             <p><a href="https://github.com/CallumBeaney/kanji-hanzi-chainer">
-                <img src="https://callumbeaney.github.io/index_images/rensou.jpg" /></a>
+                <img src="https://callumbeaney.github.io/index_images/chain.jpg" /></a>
         </td>
         <td>
-            <b>Chinese Character-Linking Practice Tool (Dart/Flutter)</b>            <p></p>
-            <p>This is an app for practicing hand-writing kanji and by chaining them by their shared components, based on how I used to furtively practice kanji on a notepad when I worked in a restaurant: 虫 虹 工 紅。寸 吋 囗 吐 土。暑、寒、暖。<br> <br>At present I am rebuilding this based on a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a> to include traditional and simplified Chinese characters.
+            <b>Chinese Character-Linking Handwriting Practice Tool (Dart/Flutter)</b>            <p></p>
+            <p>This is an app for practicing hand-writing kanji and by chaining them by their shared components: e.g. 虫 虹 工 紅。寸 吋 囗 吐 土。暑、寒、暖。<br> <br>At present I am rebuilding this based on a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a> to include traditional and simplified Chinese characters.
           </p>            <p></p>
-            <p>Repo: <a href="https://github.com/CallumBeaney/rensou-kanji-hinge-flutter">Rensou Kanji Hinge (Flutter)</a></p>
+            <p>Repo: <a href=""https://github.com/CallumBeaney/kanji-hanzi-chainer">漢字連鎖 Kanji/Hanzi Chainer </a></p>
+            <p>Watch a <a href="https://www.youtube.com/watch?v=ouIrOlZg_5I">video</a></p>
+            <p>And also a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a></p>
         </td>
     </tr>
     <tr>
