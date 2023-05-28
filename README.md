@@ -17,6 +17,18 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
 <table>
     <tr>
         <td width="300">
+            <p><a href="https://github.com/CallumBeaney/kanji-hanzi-chainer">
+                <img src="https://callumbeaney.github.io/index_images/chain.jpg" /></a>
+        </td>
+        <td>
+           <b>Chinese Character-Linking Handwriting Practice Tool (Dart/Flutter)</b>            <p></p>
+            <p>This is an app for practicing hand-writing kanji and by chaining them by their shared components: e.g. 虫 虹 工 紅。寸 吋 囗 吐 土。暑、寒、暖。<br> 
+          </p>            <p></p>
+            <p>Repo: <a href=""https://github.com/CallumBeaney/kanji-hanzi-chainer">漢字連鎖 Kanji/Hanzi Chainer </a><br>Watch a <a href="https://www.youtube.com/watch?v=ouIrOlZg_5I">video</a><br>And also a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="300">
             <a href="https://github.com/CallumBeaney/chinese-wordsearch-game"><img src="https://callumbeaney.github.io/index_images/hanzipair2.jpg" /></a>
         </td>
         <td>
@@ -52,20 +64,6 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
             <p>A CLI tool for tracking the number of days since you have made contact with your network.</p>
             <p></p>
             <p>Repo: <a href="https://github.com/CallumBeaney/people">people</a></p>
-        </td>
-    </tr>
-    <tr>
-        <td width="300">
-            <p><a href="https://github.com/CallumBeaney/kanji-hanzi-chainer">
-                <img src="https://callumbeaney.github.io/index_images/chain.jpg" /></a>
-        </td>
-        <td>
-            <b>Chinese Character-Linking Handwriting Practice Tool (Dart/Flutter)</b>            <p></p>
-            <p>This is an app for practicing hand-writing kanji and by chaining them by their shared components: e.g. 虫 虹 工 紅。寸 吋 囗 吐 土。暑、寒、暖。<br> <br>At present I am rebuilding this based on a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a> to include traditional and simplified Chinese characters.
-          </p>            <p></p>
-            <p>Repo: <a href=""https://github.com/CallumBeaney/kanji-hanzi-chainer">漢字連鎖 Kanji/Hanzi Chainer </a></p>
-            <p>Watch a <a href="https://www.youtube.com/watch?v=ouIrOlZg_5I">video</a></p>
-            <p>And also a <a href="https://callumbeaney.github.io/rensou-kanji-hinge/">prototype I made in JS</a></p>
         </td>
     </tr>
     <tr>
