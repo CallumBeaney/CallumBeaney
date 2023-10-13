@@ -1,7 +1,6 @@
-Developing RFID Tag software and language study apps.  
-Writes about photography as co-founding editor of [C4 Journal](https://c4journal.com).  
-Previously worked in cultural heritage, digitizing maps and manuscripts at [Cambridge University Library](https://www.lib.cam.ac.uk/collections/departments/digital-content-unit).  
-Additionally [makes photographs and arty things](https://callumbeaney.github.io) sometimes.  
+I write embedded [software for hornet detection equipment](https://www.gardapis.co.uk) and make language-learning apps.      
+In my spare time, if I'm not [taking arty photographs](https://callumbeaney.github.io), I'll be busy [baking medieval tarts and pastries](https://callumbeaney.github.io/pages/baking/baking.html).  
+Before this I worked in cultural heritage, [digitizing maps and manuscripts](https://callumbeaney.github.io/pages/dcu/dcu.html) at Cambridge University Library.
 
 <details><summary> 日本語：私について </summary>
 カルと申します。イギリス東部出身のプログラマーで写真専門のライター兼編集者です。  
@@ -92,9 +91,5 @@ Additionally [makes photographs and arty things](https://callumbeaney.github.io)
     </tr>
 </table>
   </details>
-  
-
-🎓 Currently Learning: Middle English; <a href="https://callumbeaney.github.io/pages/baking/baking.html">medieval pastry</a>; Harp.  
-📚 Currently Reading: Game of Thrones; The Forme of Cury; Sir Gawain and the Green Knight.  
   
 <h3>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea, say hi!</h3>
