@@ -101,4 +101,4 @@ Callum I hatte. Wythinne þe felds of þe est of Bretaygne I wone, by wylde wode
 </table>
   </details>
   
-<h4><a href="https://www.youtube.com/watch?v=UiCIW04PF3I">I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea do say hi</a></h4>
+<h4>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea do say hi</h4>
