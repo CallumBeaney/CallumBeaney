@@ -11,8 +11,9 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 <details><summary>  中文：关于我 </summary>
 我是一位自学的程序员同时兼职做作家编辑。我是网络出版物C4 Journal的文字编辑也是创始人之一。   
 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。   
-目前，我正在做嵌入式系统开发。 </details>
-<details><summary><h4>　[Click here for a sample of my recent projects]　</h4></summary>
+目前，我正在做嵌入式系统开发。 </details>  
+  
+<details><summary>「Click here for a sample of my recent projects」</summary>
 <table>
     <tr>
         <td width="300">
@@ -92,4 +93,4 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 </table>
   </details>
   
-<h3>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea, say hi!</h3>
+<h3>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea do say hi</h3>
