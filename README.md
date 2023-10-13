@@ -6,13 +6,21 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 カルと申します。イギリス東部出身のプログラマーで写真専門のライター兼編集者です。  
 美術写真評論オンライン出版物『C4 Journal』の共同創設者及び編集者です。   
 以前はケンブリッジ大学図書館で文化遺産コレクションの写真技師として働きました。   
-現在RFID関連の組込みプログラミングの体験学習をして、言語関連アップを発展しています。  </details>
+現在RFID関連の組込みプログラミングの体験学習をして、言語関連アップを発展しています。
+</details>
 
-<details><summary>  中文：关于我 </summary>
-我是一位自学的程序员同时兼职做作家编辑。我是网络出版物C4 Journal的文字编辑也是创始人之一。   
+<details><summary> 中文：关于我 </summary> 
+我是一位自学的程序员同时兼职做作家编辑。我是网络出版物[C4 Journal](https://www.c4journal.com/)的文字编辑也是创始人之一。   
 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。   
-目前，我正在做嵌入式系统开发。 </details>  
+目前，我正在做嵌入式系统开发。 
+</details>  
+
+<details><summary> ABOUT ME but I rewrote it in a 14th-century Cheshire dialect</summary> 
+Callum I hatte. Wythinne þe felds of þe est of Bretaygne I wone, by wylde wode nere. þys my Github schawen mony toles I my-seluen haue written. My crafte bi for to deprece þese mony harnettes, quo loue baret ful much, and quo forthi hunten oure bees ande poysoun our hony. For a disport I make picturez of liȝt, whene I seinen a wonder gladly wolde I yow schewen. Ande also I write aboute hem ande oþer bokes, and for my frendes serue gode messes wiþ wynne. Bifore now I mony picturez maked at þe Vniuersite of Caumbrygge, for to preserue olde bokes with lyȝt. 
+</details>
   
+  <br>
+
 <details><summary>「Click here for a sample of my recent projects」</summary>
 <table>
     <tr>
@@ -93,4 +101,4 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 </table>
   </details>
   
-<h3>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea do say hi</h3>
+<h4>I like meeting and collaborating with people.<br>If any of what you see catches your interest or sparks an idea do say hi</h4>
