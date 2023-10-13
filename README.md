@@ -10,7 +10,7 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 </details>
 
 <details><summary> 中文：关于我 </summary> 
-我是一位自学的程序员同时兼职做作家编辑。我是网络出版物[C4 Journal](https://www.c4journal.com/)的文字编辑也是创始人之一。   
+我是一位自学的程序员同时兼职做作家编辑。我是网络出版物C4 Journal的文字编辑也是创始人之一。   
 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。   
 目前，我正在做嵌入式系统开发。 
 </details>  
