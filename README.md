@@ -17,9 +17,9 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
 
 <b>Have a look at some of my projects</b>:
   - [Middle English Mouse Dictionary](https://github.com/goodpals/middle-english-mouse-dictionary) is a browser extension that creates a dictionary popup for a Middle English word when you doubleclick it.
-  - [漢字連鎖 Kanji/Hanzi Chainer](https://github.com/CallumBeaney/kanji-hanzi-chainer) is a phone app for practicing hand-writing Chinese characters by chaining them by their shared components: e.g. 虫 蟲 虹 工 紅 疇 寸 吋 囗 吐 土 。
+  - [漢字連鎖 Kanji/Hanzi Chainer](https://github.com/CallumBeaney/kanji-hanzi-chainer) is a phone app for practicing hand-writing Chinese characters by chaining them by their shared components e.g. 虫 蟲 虹 工 紅 疇 寸 吋 囗 吐 土.
   - [people](https://github.com/CallumBeaney/people) is a CLI tool for tracking the number of days since you have made contact with your network.
-  - [Tokenised Placenames Japan](https://github.com/CallumBeaney/Tokenized-Place-Names-Japan) is a list detailing 1714 of Japan's municipalities' placenames with tokenised hiragana (日本地方自治体の地名のトークン化された平仮名からなるデータセット).
+  - [Tokenised Placenames Japan](https://github.com/CallumBeaney/Tokenized-Place-Names-Japan) is a list detailing 1714 of Japan's municipalities' placenames with tokenised hiragana.
   - [二漢字複合語狩猟](https://github.com/CallumBeaney/kanji-pair-game) is a wordsearch game in which you must find 8 two-character Japanese words in a shuffled grid of 16 kanji.
   - [Symbolic Notation Converter](https://github.com/CallumBeaney/Symbolic-Notation-Converter) is a LaTeX alternative that converts coded input to math notation: `all var in dd goe pi` → `∀𝑥 ∈ 𝔻 ≥ π`
   - [Linkedinify](https://callumbeaney.github.io/linkedinify/) is a bookmarklet/meme tool that adds linebreaks after full-stops. 
