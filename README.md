@@ -9,7 +9,7 @@ Before this I worked in cultural heritage, [digitizing maps and manuscripts](htt
   <br><br>
 　我是一位自学的程序员同时兼职做作家编辑。我是网络出版物C4 Journal的文字编辑也是创始人之一。 在此之前我作为文化遗产摄影家在剑桥大学图书馆里工作过，在那期间我按照ISO标准数位化做了许多手稿和历史档案。 目前，我正在做嵌入式系统开发。  
   <br><br>
-　Callum I hatte.  Wythinne þe felds of est Bretaygne I wone, by wylde wode nere.  þys myn Github schawen mony toles I haue my-seluen written.  My crafte bi for to deprece harnettes, þe stelen our hony and hunten oure bees, ful mony.  For a disport I bake and serue gode tartys, and wyth a liȝt-cheste picturez I make.  And quen I seȝ a wonder gladly wolde I schawe, ȝif lykez yow.  Bifore now I mony svch picturez maked at þe Vniuersite of Caumbrygge, for to preserue olde bokes in lyȝt.  Iwysse, at þis tyme, wyth svch a selly in siȝt, ȝe may think hit þese instruments þe werk of wychecrafte, bot hit bi a trappe of liȝt, and this "computer" bot sand þat þynkez, þat may ȝe wel trawe.
+　Callum I hatte.  Wythinne þe felds of est Bretaygne I wone, by wylde wode nere.  þys myn Github schawen mony toles I haue my-seluen written.  My crafte bi for to deprece harnettes, for þe stelen our hony and hunten oure bees, ful mony.  For a disport I bake and serue gode tartys, and wyth a liȝt-cheste picturez I make.  Iwysse, quen I seȝ a wonder gladly wolde I yow schawe, ȝif lykez yow.  And bifore now I mony svch picturez maked at þe Vniuersite of Caumbrygge, for to preserue olde bokes in picturez of lyȝt.  Iwysse, at þis tyme, wyth svch a selly in siȝt, ȝe may think hit þese instruments þe werk of wychecrafte, bot hit bi a trappe of liȝt, and this "computer" bi bot sand þat þynkez, þat may ȝe wel trawe.
   <br>
   <br>
 </details>
