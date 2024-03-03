@@ -4,7 +4,7 @@ Callum I hatte. Wythinne þe felds of est Bretaygne I wone, by wylde wode nere. 
 <br>
   
 <b>Have a look at some of my projects</b>:
-  - [Middle English Mouse Dictionary](https://github.com/goodpals/middle-english-mouse-dictionary) is a browser extension that creates a dictionary popup for a Middle English word when you doubleclick it.
+  - [Middle English Mouse Dictionary](https://github.com/goodpals/middle-english-mouse-dictionary) is a browser extension that creates a dictionary popup for a Middle English word when you doubleclick it (IN DEVELOPMENT).
   - [漢字連鎖 Kanji/Hanzi Chainer](https://github.com/CallumBeaney/kanji-hanzi-chainer) is a phone app for practicing hand-writing Chinese characters by chaining them by their shared components e.g. 虫 蟲 虹 工 紅 疇 寸 吋 囗 吐 土.
   - [二漢字複合語狩猟](https://github.com/CallumBeaney/kanji-pair-game) is a wordsearch game in which you must find 8 two-character Japanese words in a shuffled grid of 16 kanji.
   - [people](https://github.com/CallumBeaney/people) is a CLI tool for tracking the number of days since you have made contact with your network.
