@@ -10,4 +10,4 @@
   - [Linkedinify](https://callumbeaney.github.io/linkedinify/) is a bookmarklet/meme tool that adds linebreaks after full-stops. 
   - [Regex or Obfuscation?](https://regex-or-obfuscation.web.app/) is a webgame that asks: do you know your `{{;({(/**/{({;;});});});}` from your `(?<=\\{)([^}]+)(?=\\})\` ?
   - [Christmas Tree ASCII Business Card](https://github.com/CallumBeaney/christmas-tree-card/tree/main) is a seasonal ASCII animation that fits on the back of a 55x85mm business card.
-  - [Digital Tunnel Book](https://github.com/CallumBeaney/tunnel-book-prototype) is a prototype of a digital format 'peepshow' tunnel book, made with [Printer Scanner](https://github.com/printerscanner).   
+  - [Digital Tunnel Book](https://github.com/CallumBeaney/tunnel-book-prototype) is a prototype of a digital format 'peepshow' tunnel book   
