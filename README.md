@@ -1,6 +1,6 @@
 
 <b>Some of my projects</b>:
-  - [Simulator Cleaner](https://github.com/goodpals/simcleaner/) is a CLI tool for resetting or deleting Simulator device data from your terminal.   
+  - [Simulator Cleaner](https://github.com/CallumBeaney/simulator-cleaner) is a CLI tool for resetting or deleting Simulator device data from your terminal.   
   - [Middle English Mouse Dictionary](https://github.com/goodpals/middle-english-mouse-dictionary) is a proof-of-concept browser extension that creates a dictionary popup for a Middle English word when you doubleclick it.
   - [漢字連鎖 Kanji/Hanzi Chainer](https://github.com/CallumBeaney/kanji-hanzi-chainer) is a phone app for practicing hand-writing Chinese characters by chaining them by their shared components e.g. 虫 蟲 虹 工 紅 疇 寸 吋 囗 吐 土.
   - [二漢字複合語狩猟](https://github.com/CallumBeaney/kanji-pair-game) is a wordsearch game in which you must find 8 two-character Japanese words in a shuffled grid of 16 kanji.
