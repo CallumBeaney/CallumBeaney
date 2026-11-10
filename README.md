@@ -2,7 +2,7 @@ Callum I hatte. Wythinne þͤ felds of est Bretaygne I wone, by wylde wode nere.
 [þis ȝer⁹ playlist](https://youtube.com/playlist?list=PLyf-oDu9I7jEn3tbbOC-UUOapeCi7t1k2&si=IzzCK6BA0DgVtSWU) on littel quile. As for bokez, `The Castle of Perseverance` I riȝt nowe reden.　Þys myn Githubbe README bi by my aune honde wryten, in þͤ maner of þͤ Pearl Poet (Cheshire, 14th century).  
 
 <b>Some of my projects</b>:
-  - [同音乱码 Hanzi Fudger](https://hanzi-fudger.web.app/) takes a Chinese sentence and converts its characters into their homophones e.g. 下周会很冷 ➝ 嚇洲惠狠冷.
+  - [同音乱码 Hanzi Fudger](https://hanzi-fudger.web.app/) converts a Chinese sentence into homophones e.g. 下周会很冷 ➝ 嚇洲惠狠冷.
   - [Simulator Cleaner](https://github.com/CallumBeaney/simulator-cleaner) is a CLI tool for resetting or deleting Simulator device data from your terminal.
   - [Digital Tunnel Book](https://github.com/CallumBeaney/tunnel-book-prototype) is a prototype CDH of a digital format 'peepshow' tunnel book 
   - [Middle English Mouse Dictionary](https://github.com/goodpals/middle-english-mouse-dictionary) is a proof-of-concept browser extension that creates a dictionary popup for a Middle English word when you doubleclick it.
